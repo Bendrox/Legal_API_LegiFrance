@@ -1,2 +1,2 @@
-# Legal_API_L-giFrance
+# Legal_API_LégiFrance
 Solution d'exploitation de l'API LégiFrance
