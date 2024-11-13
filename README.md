@@ -8,7 +8,7 @@ This project leverages the Légifrance API to automate the tracking of regulator
 ## Features:
 
 
-Law Text Tracking: Extract and compare versions of law texts to detect changes.
+- Law Text Tracking: Extract and compare versions of law texts to detect changes.
 
 ## Prerequisites
 
