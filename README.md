@@ -14,7 +14,9 @@ Law Text Tracking: Extract and compare versions of law texts to detect changes.
 
 Python 3.7+
 
-Légifrance API Key: An API key is required to access the Légifrance API. Register on the Légifrance Developer Portal to obtain an API key.
+Légifrance API Key: An API key is required to access the Légifrance API. 
+
+Register on the Légifrance Developer Portal to obtain an API key: https://piste.gouv.fr
 
 
 ## Other upcomming features: 
