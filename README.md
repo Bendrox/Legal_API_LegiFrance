@@ -1,4 +1,4 @@
-# Regulatory Changes Tracker with the Légifrance API
+# Regulatory Changes Tracker with Légifrance API
 
 ## Goal(s)
 
