@@ -20,6 +20,6 @@ Register on the Légifrance Developer Portal to obtain an API key: https://piste
 
 
 ## Other upcomming features: 
-Automated Reports: Generate reports on regulatory changes, including update dates, modified articles, and new provisions.
-Change Alerts: Receive notifications on specific text updates or changes within specific areas of interest.
-Evolution Visualization: Track the historical progression of texts to observe legislative evolution over time.
+- Automated Reports: Generate reports on regulatory changes, including update dates, modified articles, and new provisions.
+- Change Alerts: Receive notifications on specific text updates or changes within specific areas of interest.
+- Evolution Visualization: Track the historical progression of texts to observe legislative evolution over time.
